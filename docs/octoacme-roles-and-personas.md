@@ -222,4 +222,3 @@ Security Champions help the team embed security practices into the delivery life
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
 - The combination of business, delivery, technical, quality, and security perspectives helps teams clarify accountability and improve project outcomes.
-
